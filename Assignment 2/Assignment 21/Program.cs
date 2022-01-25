@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-
-using System;
+﻿using System;
 
 class FirstProgram
 {
@@ -10,7 +7,6 @@ class FirstProgram
           int a = 18;
           int b = 6;
           int c = 2;
-          // int d = 7;
           double x = 5;
           double y = 4;
           double z = 2;
