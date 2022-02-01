@@ -20,11 +20,11 @@ namespace Program
                }
                else if (StringClasses.isExclamation(sentence))
                {
-                    Console.WriteLine("It is a Exclamatory sentence");
+                    Console.WriteLine("It is an Exclamatory sentence");
                }
                else if (StringClasses.isInterrogative(sentence))
                {
-                    Console.WriteLine("It is a interrogative sentence");
+                    Console.WriteLine("It is an interrogative sentence");
                }
                else{
                     Console.WriteLine("It is not a Sentence.");
