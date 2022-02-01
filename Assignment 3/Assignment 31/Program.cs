@@ -14,8 +14,8 @@ namespace Program
 
                Rational rational = new Rational(numerator, denominator);
 
-               rational.FloatingDivision();
                rational.IntegerDivison();
+               rational.FloatingDivision();
                rational.MixedFraction();
           }
      }
