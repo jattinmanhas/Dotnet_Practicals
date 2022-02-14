@@ -14,6 +14,7 @@ class Program
 
      //method hidding
           e1.methodHiding();
+          
      //method overloading
           Console.WriteLine("Method overloading example....");
           Console.WriteLine("Multiplication of two numbers: " + PermanentEmployee.mulDisplay(10, 15));
