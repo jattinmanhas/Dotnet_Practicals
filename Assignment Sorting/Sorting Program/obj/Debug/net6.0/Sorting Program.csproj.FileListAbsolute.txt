@@ -1,0 +1,15 @@
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\bin\Debug\net6.0\Sorting Program.exe
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\bin\Debug\net6.0\Sorting Program.deps.json
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\bin\Debug\net6.0\Sorting Program.runtimeconfig.json
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\bin\Debug\net6.0\Sorting Program.dll
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\bin\Debug\net6.0\ref\Sorting Program.dll
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\bin\Debug\net6.0\Sorting Program.pdb
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.csproj.AssemblyReference.cache
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.AssemblyInfoInputs.cache
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.AssemblyInfo.cs
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.csproj.CoreCompileInputs.cache
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.dll
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\ref\Sorting Program.dll
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.pdb
+C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.genruntimeconfig.cache
