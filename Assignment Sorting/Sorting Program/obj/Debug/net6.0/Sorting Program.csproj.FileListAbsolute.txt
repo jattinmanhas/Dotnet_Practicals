@@ -13,3 +13,18 @@ C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practic
 C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\ref\Sorting Program.dll
 C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.pdb
 C:\Users\manha\OneDrive\Documents\Jattin's Folder\Dotnet Programs\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.genruntimeconfig.cache
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\bin\Debug\net6.0\Sorting Program.exe
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\bin\Debug\net6.0\Sorting Program.deps.json
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\bin\Debug\net6.0\Sorting Program.runtimeconfig.json
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\bin\Debug\net6.0\Sorting Program.dll
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\bin\Debug\net6.0\Sorting Program.pdb
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.csproj.AssemblyReference.cache
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.AssemblyInfoInputs.cache
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.AssemblyInfo.cs
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.dll
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\refint\Sorting Program.dll
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.pdb
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\Sorting Program.genruntimeconfig.cache
+C:\Users\Acer\Programming Files\Dotnet_Practicals\Assignment Sorting\Sorting Program\obj\Debug\net6.0\ref\Sorting Program.dll
