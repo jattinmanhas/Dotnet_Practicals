@@ -27,6 +27,7 @@ class StringClasses
           string[] arr = s.Split(" ");
           if (arr.Length == 1)
           {
+               arr[0].Trim();
                Console.WriteLine($"You have entered name \'{arr[0]}\'");
           }
           else

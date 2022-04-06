@@ -6,6 +6,7 @@ namespace Program
      {
           public static void Main(string[] args)
           {
+               try{
                Console.WriteLine("\nEnter a string : ");
                String str = Console.ReadLine();
                Console.WriteLine($"\'{str}\' has length : { StringClasses.Length(str)}");
@@ -39,6 +40,10 @@ namespace Program
                Console.WriteLine("\nEnter a name : ");
                String sname = Console.ReadLine();
                StringClasses.modifiedCommaName(sname);
+               }
+               catch(Exception e){
+                    Console.WriteLine("Error: "+e);
+               }
           }
      }
 }
